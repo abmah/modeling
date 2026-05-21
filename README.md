@@ -16,6 +16,10 @@ Use the standard markdown image syntax with a relative path from the README:
 
 ![Duck render](animals/Duck/result.png)
 
-### Dog — not done
+### Dog — done
 
-### Shark — not done
+![Dog render](animals/Dog/result.jpg)
+
+### Shark — done
+
+![Shark render](animals/Shark/result.jpg)
