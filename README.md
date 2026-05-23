@@ -12,10 +12,6 @@ Use the standard markdown image syntax with a relative path from the README:
 
 ## Progress
 
-### Duck — done (no animations yet)
-
-![Duck render](animals/Duck/result.png)
-
 ### Dog — done (rigged & animated)
 
 ![Dog render](animals/Dog/result.jpg)
@@ -23,6 +19,10 @@ Use the standard markdown image syntax with a relative path from the README:
 | Sit | Walk |
 | --- | --- |
 | ![Dog sit animation](animals/Dog/sit_animation.gif) | ![Dog walk animation](animals/Dog/walk_animation.gif) |
+
+### Duck — done (no animations yet)
+
+![Duck render](animals/Duck/result.png)
 
 ### Shark — done
 
