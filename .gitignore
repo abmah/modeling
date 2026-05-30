@@ -5,3 +5,12 @@
 /timelapse_videos
 /rigging
 /playground
+
+# Blender backup files
+*.blend1
+*.blend2
+
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store

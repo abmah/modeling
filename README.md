@@ -12,6 +12,10 @@ Low-poly animal models built in Blender.
 | --- | --- |
 | ![Dog sit animation](animals/Dog/sit_animation.gif) | ![Dog walk animation](animals/Dog/walk_animation.gif) |
 
+### Dolphin — done (rigged & animated)
+
+![Dolphin swim animation](animals/Dolphin/dolphin.gif)
+
 ### Duck — done (no animations yet)
 
 ![Duck render](animals/Duck/result.png)
